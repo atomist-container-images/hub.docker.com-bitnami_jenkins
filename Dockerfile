@@ -1,12 +1,39 @@
-# Tags: latest, 2.332.2-debian-10-r17, 2.332.2, 2-debian-10, 2
+# Tags: latest, 2.332.2-debian-10-r26, 2.332.2, 2-debian-10, 2
 FROM bitnami/jenkins:latest
-FROM bitnami/jenkins:2.332.2-debian-10-r17
+FROM bitnami/jenkins:2.332.2-debian-10-r26
 FROM bitnami/jenkins:2.332.2
 FROM bitnami/jenkins:2-debian-10
 FROM bitnami/jenkins:2
 
 # Tags: _
 FROM bitnami/jenkins:_
+
+# Tags: 2.332.2-debian-10-r25
+FROM bitnami/jenkins:2.332.2-debian-10-r25
+
+# Tags: 2.332.2-debian-10-r24
+FROM bitnami/jenkins:2.332.2-debian-10-r24
+
+# Tags: 2.332.2-debian-10-r23
+FROM bitnami/jenkins:2.332.2-debian-10-r23
+
+# Tags: 2.332.2-debian-10-r22
+FROM bitnami/jenkins:2.332.2-debian-10-r22
+
+# Tags: 2.332.2-debian-10-r21
+FROM bitnami/jenkins:2.332.2-debian-10-r21
+
+# Tags: 2.332.2-debian-10-r20
+FROM bitnami/jenkins:2.332.2-debian-10-r20
+
+# Tags: 2.332.2-debian-10-r19
+FROM bitnami/jenkins:2.332.2-debian-10-r19
+
+# Tags: 2.332.2-debian-10-r18
+FROM bitnami/jenkins:2.332.2-debian-10-r18
+
+# Tags: 2.332.2-debian-10-r17
+FROM bitnami/jenkins:2.332.2-debian-10-r17
 
 # Tags: 2.332.2-debian-10-r16
 FROM bitnami/jenkins:2.332.2-debian-10-r16
@@ -37,31 +64,3 @@ FROM bitnami/jenkins:2.332.2-debian-10-r8
 
 # Tags: 2.332.2-debian-10-r7
 FROM bitnami/jenkins:2.332.2-debian-10-r7
-
-# Tags: 2.332.2-debian-10-r5
-FROM bitnami/jenkins:2.332.2-debian-10-r5
-
-# Tags: 2.332.2-debian-10-r4
-FROM bitnami/jenkins:2.332.2-debian-10-r4
-
-# Tags: 2.332.2-debian-10-r3
-FROM bitnami/jenkins:2.332.2-debian-10-r3
-
-# Tags: 2.332.2-debian-10-r2
-FROM bitnami/jenkins:2.332.2-debian-10-r2
-
-# Tags: 2.332.2-debian-10-r1
-FROM bitnami/jenkins:2.332.2-debian-10-r1
-
-# Tags: 2.332.2-debian-10-r0
-FROM bitnami/jenkins:2.332.2-debian-10-r0
-
-# Tags: 2.332.1-debian-10-r24, 2.332.1
-FROM bitnami/jenkins:2.332.1-debian-10-r24
-FROM bitnami/jenkins:2.332.1
-
-# Tags: 2.332.1-debian-10-r23
-FROM bitnami/jenkins:2.332.1-debian-10-r23
-
-# Tags: 2.332.1-debian-10-r22
-FROM bitnami/jenkins:2.332.1-debian-10-r22
